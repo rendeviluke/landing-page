@@ -1,5 +1,5 @@
 .main-bg {
-    background-image: url('../img/background.svg');
+    background-image: url('../img/confetti-doodles.svg');
     background-size: contain;
     background-position: center;
     color: var(--white-color);
@@ -17,4 +17,8 @@
 
 .section {
     min-height: 100vh;
+}
+
+.menu-spacing {
+    height: 6.5rem;
 }
