@@ -13,21 +13,16 @@
     justify-content: center;
 }
 
-
-.intro-text-content h2 {
-    font-size: 6rem;
-    margin-bottom: 5rem;
-    text-transform: uppercase;
-    line-height: 1.2;
-}
-
-.intro-img img {
+.intro-img img, .intro-img svg {
     max-width: 80%;
     height: auto;
 }
 
-.tenor-gif-embed {
-    margin: auto;
-    padding: 0;
-    align-items: center;
+.intro-benefits {
+    max-width: 64rem;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
 }
