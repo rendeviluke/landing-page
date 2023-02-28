@@ -1,7 +1,8 @@
 .main-bg {
-    background-image: url('../img/confetti-doodles.svg');
+    background-image: url('../img/background.svg');
     background-size: contain;
     background-position: center;
+    background-size: 50%;
     color: var(--white-color);
 }
 
@@ -22,4 +23,9 @@
 
 .menu-spacing {
     height: 6.5rem;
+}
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
 }
