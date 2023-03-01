@@ -168,7 +168,7 @@
     color: var(--primary-color);
     box-shadow: 0.05rem 0.05rem 1rem 0;
     transform: rotate(-90deg);
-    padding: 0;
+    padding-bottom: 0.1rem;
 }
 
 @media (max-width: 56rem) {
