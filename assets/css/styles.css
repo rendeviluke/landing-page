@@ -219,6 +219,7 @@
         text-align: center;
         padding: 0.5rem;
         cursor: pointer;
+        border-radius: 20%;
     }
     /* × */
     .close-menu:checked~.menu {
