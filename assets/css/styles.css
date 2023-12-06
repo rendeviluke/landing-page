@@ -14,8 +14,13 @@
 }
 
 .intro-img img, .intro-img svg {
-    max-width: 80%;
+    max-width: 60%;
     height: auto;
+}
+
+.sticker-img {
+    padding-left: 15rem;
+    min-width: 100%;
 }
 
 .intro-benefits {
