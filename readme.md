@@ -1,1 +1,1 @@
-rendeviluke.netlify.app
+Landing Page link: [rendeviluke](https://rendeviluke.netlify.app)
